@@ -10,7 +10,7 @@ Moreover, with this board, **you can remove the original, old, and inefficient p
 ![SNES](https://raw.githubusercontent.com/giltesa/Super-Nintendo-USB-C-Kit/master/4.%20Photos/SNES-USB-C-v1.0.jpg)
 
 
-## You can get more information on my website:
+## Would you like it?
 
 [**Super Nintendo USB-C Kit (EN)**](https://shop.giltesa.com/product/super-nintendo-usb-c-kit/)
 
