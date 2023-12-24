@@ -7,7 +7,7 @@ The **Super Nintendo: USB-C Kit** is a board that allows to replace the original
 Moreover, with this board, **you can remove the original, old, and inefficient power converter**. Since the console operates at 5V, you only need the power from USB-C and a regular charger.
 
 
-![SNES](https://raw.githubusercontent.com/giltesa/Super-Nintendo-USB-C-Kit/master/4.%20Photos/SNES-USB-C-v1.0.jpg)
+![SNES](https://raw.githubusercontent.com/giltesa/Super-Nintendo-USB-C-Kit/master/4.%20Photos/SNES-USB-C-v1.1.png)
 
 
 ## Would you like it?
